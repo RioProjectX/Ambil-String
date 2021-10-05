@@ -13,7 +13,7 @@ from pyrogram.errors import (
 )
 
 
-API_TEXT = """Galo Kamu, {}.
+API_TEXT = """Halo Kamu, {}.
 Selamat Datang !
 Saya Adalah String Session Generator Bot
 Saya Bisa Membantumu Mendapatkan String Dengan Mudah Dan Cepat !
